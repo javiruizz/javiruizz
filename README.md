@@ -4,7 +4,7 @@
 
 ## Sobre mi
 
-- Future Software Engineer
+- Future Software Engineer .
 <br>
                                                                                       
 </td>  
