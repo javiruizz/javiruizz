@@ -1,22 +1,13 @@
-<div align="center">
-<h1 align="center">Hi, I'm Javi 👋</h1>
-</div>
+# 💫 About Me:
+🔭 Studying Computer Engineering at University of Granada, Spain
 
-## Sobre mi
 
-- Future Software Engineer .
-<br>
-                                                                                      
-</td>  
-</table>                                                                                 
-</div>
-<br>
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=javiruizz&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=javiruizz&theme=midnight-purple&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=javiruizz&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### ⚙️ &nbsp;GitHub Analytics
-
-<p align="center">
-<a href="https://github.com/javiruizz">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=javiruizz&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=javiruizz&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
+---
+[![](https://visitcount.itsvg.in/api?id=javiruizz&icon=0&color=11)](https://visitcount.itsvg.in)
