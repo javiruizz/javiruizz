@@ -3,7 +3,7 @@
 </div>
 
 ## About Me:
-🔭 Studying Computer Engineering at University of Granada, Spain
+🔭 Studying Software Engineering at University of Granada, Spain
 
 
 ## 💻 Tech Stack:
