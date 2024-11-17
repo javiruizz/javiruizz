@@ -2,7 +2,7 @@
 <h1 align="center">Hi, I'm Javi 👋</h1>
 </div>
 
-## ⭐ About Me: ....
+## ⭐ About Me: .....
 🔭 Studying Software Engineering at University of Granada, Spain
 
 
